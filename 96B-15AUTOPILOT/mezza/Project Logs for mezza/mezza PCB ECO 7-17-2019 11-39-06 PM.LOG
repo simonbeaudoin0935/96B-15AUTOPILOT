@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=CAM2_SDA_1V8 Pin=P2-38
+Change Net Name : Old Net Name=DSI_D2+ New Net Name=HSIC_STR
+Added Pin To Net: NetName=DSI_D2+ Pin=P2-39
+Added Net: Name=DSI_D2+
+Added Room: Name=Camera
+Added Rule: Name=Schematic Matched Net Lengths_1
+Added Rule: Name=Schematic Matched Net Lengths_2

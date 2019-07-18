@@ -1,0 +1,25 @@
+Added Pin To Net: NetName=CAM1_GPIO0_1V8 Pin=P2-1
+Added Pin To Net: NetName=CSI1_CLK_P Pin=P2-2
+Added Pin To Net: NetName=CAM1_GPIO1_1V8 Pin=P2-3
+Added Pin To Net: NetName=CSI1_CLK_N Pin=P2-4
+Added Pin To Net: NetName=CAM2_GPIO0_1V8 Pin=P2-5
+Added Pin To Net: NetName=CAM2_GPIO1_1V8 Pin=P2-7
+Added Pin To Net: NetName=CSI1_D0_P Pin=P2-8
+Added Pin To Net: NetName=CSI1_D0_N Pin=P2-10
+Added Pin To Net: NetName=CSI1_D1_P Pin=P2-14
+Added Pin To Net: NetName=CSI1_D1_N Pin=P2-16
+Added Pin To Net: NetName=CSI1_D0_P Pin=P2-42
+Added Pin To Net: NetName=CSI1_D0_N Pin=P2-44
+Added Pin To Net: NetName=CSI1_D1_P Pin=P2-48
+Added Pin To Net: NetName=CSI1_D1_N Pin=P2-50
+Added Pin To Net: NetName=CSI1_CLK_P Pin=P2-54
+Added Pin To Net: NetName=CSI1_CLK_N Pin=P2-56
+Change Net Name : Old Net Name=DSI_D2+ New Net Name=HSIC_STR
+Change Net Name : Old Net Name=I2C3_SDA New Net Name=RESERVED
+Added Pin To Net: NetName=DSI_D2+ Pin=P2-39
+Added Net: Name=DSI_D2+
+Added Pin To Net: NetName=I2C3_SDA Pin=P2-38
+Added Net: Name=I2C3_SDA
+Added Member To Class: ClassName=Camera Member=Component C1 Cap
+Added Member To Class: ClassName=Camera Member=Component C2 Cap
+Added Member To Class: ClassName=Camera Member=Component C? 0603

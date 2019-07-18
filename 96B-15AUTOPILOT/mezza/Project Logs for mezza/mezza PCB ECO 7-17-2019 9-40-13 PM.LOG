@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=CAM1_SCL_1V8 Pin=P1-15
+Removed Pin From Net: NetName=CAM1_SDA_1V8 Pin=P1-17
+Removed Pin From Net: NetName=CAM2_SCL_1V8 Pin=P1-19
+Removed Pin From Net: NetName=CAM2_SDA_1V8 Pin=P1-21
+Added Pin To Net: NetName=CAM1_SCL_1V8 Pin=P2-32
+Added Pin To Net: NetName=CAM1_SDA_1V8 Pin=P2-34
+Added Pin To Net: NetName=CAM2_SCL_1V8 Pin=P2-36
+Added Pin To Net: NetName=CAM2_SDA_1V8 Pin=P2-38
+Change Net Name : Old Net Name=DSI_D2+ New Net Name=HSIC_STR
+Change Net Name : Old Net Name=I2C3_SDA New Net Name=RESERVED
+Added Pin To Net: NetName=DSI_D2+ Pin=P2-39
+Added Net: Name=DSI_D2+
+Added Pin To Net: NetName=I2C0_SCL Pin=P1-15
+Added Net: Name=I2C0_SCL
+Added Pin To Net: NetName=I2C0_SDA Pin=P1-17
+Added Net: Name=I2C0_SDA
+Added Pin To Net: NetName=I2C1_SCL Pin=P1-19
+Added Net: Name=I2C1_SCL
+Added Pin To Net: NetName=I2C1_SDA Pin=P1-21
+Added Net: Name=I2C1_SDA
+Added Member To Class: ClassName=Camera Member=Component C1 Cap
+Added Member To Class: ClassName=Camera Member=Component C2 Cap
+Added Member To Class: ClassName=Camera Member=Component C? 0603

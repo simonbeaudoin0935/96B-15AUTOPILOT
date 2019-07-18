@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=CSI0_D0_N Pin=J1-3
+Removed Pin From Net: NetName=CSI0_D0_P Pin=J1-4
+Removed Pin From Net: NetName=GND Pin=J1-5
+Removed Pin From Net: NetName=CSI0_D1_N Pin=J1-6
+Removed Pin From Net: NetName=CSI0_D1_P Pin=J1-7
+Removed Pin From Net: NetName=GND Pin=J1-8
+Removed Pin From Net: NetName=CSI0_CLK_N Pin=J1-9
+Removed Pin From Net: NetName=CSI0_CLK_P Pin=J1-10
+Removed Pin From Net: NetName=GND Pin=J1-11
+Removed Pin From Net: NetName=CAM1_GPIO0_3V3 Pin=J1-12
+Removed Pin From Net: NetName=CAM1_GPIO1_3V3 Pin=J1-13
+Removed Pin From Net: NetName=CAM1_SCL_3V3 Pin=J1-14
+Removed Pin From Net: NetName=CAM1_SDA_3V3 Pin=J1-15
+Removed Pin From Net: NetName=3V3 Pin=J1-16
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=CSI1_D0_N Pin=J2-3
+Removed Pin From Net: NetName=CSI1_D0_P Pin=J2-4
+Removed Pin From Net: NetName=GND Pin=J2-5
+Removed Pin From Net: NetName=CSI1_D1_N Pin=J2-6
+Removed Pin From Net: NetName=CSI1_D1_P Pin=J2-7
+Removed Pin From Net: NetName=GND Pin=J2-8
+Removed Pin From Net: NetName=CSI1_CLK_N Pin=J2-9
+Removed Pin From Net: NetName=CSI1_CLK_P Pin=J2-10
+Removed Pin From Net: NetName=GND Pin=J2-11
+Removed Pin From Net: NetName=CAM2_GPIO0_3V3 Pin=J2-12
+Removed Pin From Net: NetName=CAM2_GPIO1_3V3 Pin=J2-13
+Removed Pin From Net: NetName=CAM2_SCL_3V3 Pin=J2-14
+Removed Pin From Net: NetName=CAM2_SDA_3V3 Pin=J2-15
+Removed Pin From Net: NetName=3V3 Pin=J2-16
+Change Component Comment : Designator=J1 Old Comment=CSI Camera 1 New Comment=FCC_Connector
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=CSI0_D0_N Pin=J1-2
+Added Pin To Net: NetName=CSI0_D0_P Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=CSI0_D1_N Pin=J1-5
+Added Pin To Net: NetName=CSI0_D1_P Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=CSI0_CLK_N Pin=J1-8
+Added Pin To Net: NetName=CSI0_CLK_P Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=CAM1_GPIO0_3V3 Pin=J1-11
+Added Pin To Net: NetName=CAM1_GPIO1_3V3 Pin=J1-12
+Added Pin To Net: NetName=CAM1_SCL_3V3 Pin=J1-13
+Added Pin To Net: NetName=CAM1_SDA_3V3 Pin=J1-14
+Added Pin To Net: NetName=3V3 Pin=J1-15
+Added Pin To Net: NetName=RESERVED Pin=P2-38
+Change Net Name : Old Net Name=DSI_D2+ New Net Name=HSIC_STR
+Added Pin To Net: NetName=DSI_D2+ Pin=P2-39
+Added Net: Name=DSI_D2+
+Added Member To Class: ClassName=Camera Member=Component C3 0603
+Added Member To Class: ClassName=Camera Member=Component C4 0402
+Added Member To Class: ClassName=Camera Member=Component C7 0603
+Added Member To Class: ClassName=Camera Member=Component J1 FCC_Connector
+Added Member To Class: ClassName=mezza Member=Component P1 low-speed_connector
+Added Member To Class: ClassName=mezza Member=Component P2 High-speed_connector
+Added Member To Class: ClassName=Camera Member=Component R1 Res1
+Added Member To Class: ClassName=Camera Member=Component R2 Res1
+Added Member To Class: ClassName=Camera Member=Component R3 Res1
+Added Member To Class: ClassName=Camera Member=Component R4 Res1
+Added Member To Class: ClassName=Camera Member=Component R5 Res1
+Added Member To Class: ClassName=Camera Member=Component R6 Res1
+Added Member To Class: ClassName=Camera Member=Component R7 Res1
+Added Member To Class: ClassName=Camera Member=Component R8 Res1
+Added Member To Class: ClassName=Camera Member=Component R9 Res1
+Added Member To Class: ClassName=Camera Member=Component R10 Res1
+Added Member To Class: ClassName=Camera Member=Component U1 PCA9306DP1
+Added Member To Class: ClassName=Camera Member=Component U2 PCA9306DP1
+Added Room: Name=Camera
+Added Rule: Name=Schematic Matched Net Lengths_3
+Added Rule: Name=Schematic Matched Net Lengths_4
