@@ -1,0 +1,42 @@
+Removed Member From Class: ClassName=Camera Member=C?
+Change Net Name : Old Net Name=EXP_D3_P New Net Name=HSIC_STR
+Added Pin To Net: NetName=EXP_D3_P Pin=P2-39
+Added Net: Name=EXP_D3_P
+Change Differential Pair Positive Net Name : Old Net Name=EXP_D3_P New Net Name=EXP_D3_P
+Added Member To Class: ClassName=9DOF_Sensors Member=Component C? Cap
+Added Member To Class: ClassName=9DOF_Sensors Member=Component C? Cap
+Added Member To Class: ClassName=9DOF_Sensors Member=Component C? Cap
+Added Member To Class: ClassName=9DOF_Sensors Member=Component C? Ceramic, X7R, 0.1uF +- 10%, 2V
+Added Member To Class: ClassName=9DOF_Sensors Member=Component C? Ceramic, X7R, 0.1uF +- 10%, 2V
+Added Member To Class: ClassName=9DOF_Sensors Member=Component C? Cap
+Added Member To Class: ClassName=9DOF_Sensors Member=Component C? Cap
+Added Room: Name=9DOF_Sensors
+Added Room: Name=Camera
+Added Room: Name=GPS
+Added Rule: Name=Schematic Differential Pairs Routing
+Added Rule: Name=Schematic Differential Pairs Routing_1
+Added Rule: Name=Schematic Differential Pairs Routing_2
+Added Rule: Name=Schematic Differential Pairs Routing_3
+Added Rule: Name=Schematic Differential Pairs Routing_4
+Added Rule: Name=Schematic Differential Pairs Routing_5
+Added Rule: Name=Schematic Differential Pairs Routing_6
+Added Rule: Name=Schematic Differential Pairs Routing_7
+Added Rule: Name=Schematic Differential Pairs Routing_8
+Added Rule: Name=Schematic Differential Pairs Routing_9
+Added Rule: Name=Schematic Differential Pairs Routing_10
+Added Rule: Name=Schematic Differential Pairs Routing_11
+Added Rule: Name=Schematic Differential Pairs Routing_12
+Added Rule: Name=Schematic Differential Pairs Routing_13
+Added Rule: Name=Schematic Differential Pairs Routing_14
+Added Rule: Name=Schematic Differential Pairs Routing_15
+Added Rule: Name=Schematic Differential Pairs Routing_16
+Added Rule: Name=Schematic Differential Pairs Routing_17
+Added Rule: Name=Schematic Differential Pairs Routing_18
+Added Rule: Name=Schematic Differential Pairs Routing_19
+Added Rule: Name=Schematic Differential Pairs Routing_20
+Added Rule: Name=Schematic Differential Pairs Routing_21
+Added Rule: Name=Schematic Differential Pairs Routing_22
+Added Rule: Name=Schematic Differential Pairs Routing_23
+Added Rule: Name=Schematic Differential Pairs Routing_24
+Added Rule: Name=Schematic Differential Pairs Routing_25
+Added Class: Name=CSI

@@ -1,0 +1,44 @@
+Removed Member From Class: ClassName=Camera Member=C?
+Change Component Footprint: Designator=C? Old Footprint=RAD-0.3 New Footprint=0402
+Change Component Footprint: Designator=C? Old Footprint=RAD-0.3 New Footprint=0402
+Change Component Footprint: Designator=C? Old Footprint=RAD-0.3 New Footprint=0402
+Change Component Footprint: Designator=C? Old Footprint=RAD-0.3 New Footprint=0402
+Change Component Footprint: Designator=C? Old Footprint=RAD-0.3 New Footprint=0402
+Change Component Footprint: Designator=C? Old Footprint=RAD-0.3 New Footprint=0402
+Change Component Footprint: Designator=C? Old Footprint=RAD-0.3 New Footprint=0402
+Change Component Footprint: Designator=C? Old Footprint=RAD-0.3 New Footprint=0402
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Net Name : Old Net Name=EXP_D3_P New Net Name=HSIC_STR
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC14_2
+Added Pin To Net: NetName=EXP_D3_P Pin=P2-39
+Added Net: Name=EXP_D3_P
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=M2-21
+Added Net: Name=NetC13_2
+Added Member To Class: ClassName=9DOF_Sensors Member=Component C10 Ceramic, X7R, 0.1uF +- 10%, 2V
+Added Member To Class: ClassName=9DOF_Sensors Member=Component C11 Ceramic, X7R, 0.1uF +- 10%, 4V
+Added Member To Class: ClassName=9DOF_Sensors Member=Component C12 Cap
+Added Member To Class: ClassName=9DOF_Sensors Member=Component C13 Cap
+Added Member To Class: ClassName=9DOF_Sensors Member=Component C14 Cap
+Added Member To Class: ClassName=9DOF_Sensors Member=Component C15 Cap
+Added Member To Class: ClassName=9DOF_Sensors Member=Component C16 Cap
+Added Room: Name=9DOF_Sensors
+Added Room: Name=Camera
+Added Room: Name=GPS
+Added Rule: Name=Schematic Differential Pairs Routing_26
+Added Rule: Name=Schematic Differential Pairs Routing_27
+Added Rule: Name=Schematic Differential Pairs Routing_28
+Added Rule: Name=Schematic Differential Pairs Routing_29
+Added Rule: Name=Schematic Differential Pairs Routing_30
+Added Rule: Name=Schematic Differential Pairs Routing_31
+Added Rule: Name=Schematic Differential Pairs Routing_32
+Added Rule: Name=Schematic Differential Pairs Routing_33
+Added Rule: Name=Schematic Differential Pairs Routing_34
+Added Rule: Name=Schematic Differential Pairs Routing_35

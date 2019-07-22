@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=Camera Member=U4
+Change Component Footprint: Designator=C1 Old Footprint=RAD-0.3 New Footprint=0402
+Change Component Footprint: Designator=C2 Old Footprint=RAD-0.3 New Footprint=0402
+Change Component Footprint: Designator=C5 Old Footprint=RAD-0.3 New Footprint=0402
+Change Component Footprint: Designator=C6 Old Footprint=RAD-0.3 New Footprint=0402
+Added Pin To Net: NetName=CAM2_GPIO1_3V3 Pin=U3-5
+Change Net Name : Old Net Name=EXP_D3_P New Net Name=HSIC_STR
+Added Pin To Net: NetName=EXP_D3_P Pin=P2-39
+Added Net: Name=EXP_D3_P
+Added Member To Class: ClassName=Camera Member=Component U2 PCA9306DP1
+Added Room: Name=9DOF_Sensors
+Added Room: Name=GPS
