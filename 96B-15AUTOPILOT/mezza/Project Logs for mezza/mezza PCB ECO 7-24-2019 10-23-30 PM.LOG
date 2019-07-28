@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=CAM2_GPIO1_3V3 Pin=U3-5
+Added Pin To Net: NetName=ESC2_PWM Pin=U5-5
+Change Net Name : Old Net Name=EXP_D3_P New Net Name=HSIC_STR
+Added Pin To Net: NetName=EXP_D3_P Pin=P2-39
+Added Net: Name=EXP_D3_P
